@@ -7,7 +7,7 @@ I am a web developer who specializes in creating responsive, user-friendly, and 
 Skills: PHP / JS / HTML / CSS/WordPress
 
 - 🔭 I’m currently working on Upwork 
-- 🌱 I’m currently learning PHP 
+- 🌱 I’m currently learning REACT 
 - 👯 I’m looking to collaborate on github 
 
 
