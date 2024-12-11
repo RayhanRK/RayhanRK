@@ -2,22 +2,22 @@
 ### Hi there 👋, I'm Rayhan Khan
 #### Frontend Web Developer
 
-👋 Hi, I'm a passionate Frontend Web Developer dedicated to building responsive, user-friendly websites that look great and perform even better. I specialize in:
-
+ I'm a passionate Frontend Web Developer dedicated to building responsive, user-friendly websites that look great and perform even better. 
+ 
+ I specialize in:
 🌟 Responsive Design: Crafting seamless experiences across devices.
 ⚡ WordPress Development: Designing and customizing themes & plugins to meet unique needs.
 🔍 SEO Optimization: Ensuring websites rank well and are easy to discover.
 📬 Let's connect! I'm always open to collaboration and exploring new challenges.
 
-Skills: PHP / JS / HTML / CSS/WordPress
+#### Skills: 
+     PHP | JavaScript | HTML | CSS | WordPress
 
-PHP | JavaScript | HTML | CSS | WordPress
-
-- 🔭 Currently working on: Projects via Upwork.
-- 🌱 Learning: React to enhance my frontend toolkit.
-- 👯 Open to: Collaborating on exciting projects here on GitHub.
-  
-📬 Let’s connect! I’m always eager to explore new challenges and opportunities to grow.
+      - 🔭 Currently working on: Projects via Upwork.
+      - 🌱 Learning: React to enhance my frontend toolkit.
+      - 👯 Open to: Collaborating on exciting projects here on GitHub.
+        
+     📬 Let’s connect! I’m always eager to explore new challenges and opportunities to grow.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RayhanRK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devrayhankhan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devrayhank.com/)  
